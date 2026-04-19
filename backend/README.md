@@ -1,4 +1,4 @@
-# Aspira - Backend (Node.js & Express)
+#  Backend (Node.js & Express)
 
 This is the server-side application for **Aspira**, providing the necessary infrastructure for user authentication, data persistence, and WebRTC signaling.
 
