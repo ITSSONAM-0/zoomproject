@@ -1,4 +1,4 @@
-# Aspira - System Design & Workflow
+#  System Design & Workflow
 
 This document outlines the architectural design, component interactions, and data workflows of the Aspira Video Conferencing platform.
 
