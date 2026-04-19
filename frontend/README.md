@@ -1,4 +1,4 @@
-# Aspira - Frontend (React Application)
+#  Frontend (React Application)
 
 This is the client-side application for **Aspira**, a real-time video conferencing platform. It is built using **React 19** and leverages several modern web technologies to provide a smooth, interactive experience.
 
