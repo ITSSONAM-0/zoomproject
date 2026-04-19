@@ -1,4 +1,4 @@
-# Aspira - Real-Time Video Conferencing Platform
+# Real-Time Video Conferencing Platform
 
 Aspira is a fully functional video conferencing application (Zoom Clone) built using the **MERN Stack** (MongoDB, Express, React, Node.js) and **WebRTC** for high-quality, peer-to-peer communication.
 
